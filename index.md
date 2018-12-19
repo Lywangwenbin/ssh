@@ -1,4 +1,6 @@
-{% include_relative header.html %}
+---
+title: "GlobalSSH"
+---
 
 ## Welcome to GitHub Pages
 
