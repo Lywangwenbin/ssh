@@ -1,5 +1,5 @@
 ---
-title: "GlobalSSH"
+title: ""
 ---
 
 ## Welcome to GitHub Pages
